@@ -19,7 +19,7 @@ const ResNavbar = () => {
       <div className="flex justify-between items-center h-16 px-6 md:px-18">
         
         <div className="logo flex items-center gap-1">
-          <img className="w-10" src="/logo.png" alt="logo" />
+          <img className="w-10 h-10 rounded-full" src="/updated.jpg" alt="logo" />
           <h1 className="text-2xl md:text-3xl text-purple-300">
             speak
             <span className="text-purple-700 font-semibold font-serif">
