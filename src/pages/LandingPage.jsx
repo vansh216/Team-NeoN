@@ -15,7 +15,7 @@ const LandingPage = () => {
 
     <div className='w-full  min-h-screen z-10'>
 
-        <ResNavbarNavbar />
+        <ResNavbar />
         
       <section id='home'>
         <Hero />
